@@ -1,6 +1,6 @@
 ---
 title: "Markdown_repo"
-output: html_document
+output: github_document
 ---
 ---
 title: "Basic Plots"
